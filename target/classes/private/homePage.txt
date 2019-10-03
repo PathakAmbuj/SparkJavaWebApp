@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+</head>
+<body>
+<div style="background-color:powderblue;">
+  <a class='w3schools-logo notranslate' href='//www.w3schools.com'>w3schools<span class='dotcom'>.com</span></a>
+  <div>
+	  <h1 style="text-align:center; background-color:powderblue;">
+		  THE WORLD'S LARGEST WEB DEVELOPER SITE
+	  </h1>
+  </div>
+  <div style="background-color:black;">
+  	<h2>
+  		<a href='/default.asp' title='Home'></a>
+  	</h2>
+  </div>
+</div>
+</html>

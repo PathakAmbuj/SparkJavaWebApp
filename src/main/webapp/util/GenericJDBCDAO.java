@@ -84,8 +84,8 @@ public class GenericJDBCDAO {
 
     protected Connection getConnection() throws ClassNotFoundException, SQLException {
         String driverClass = "com.mysql.cj.jdbc.Driver";
-        String USER = "root";
-        String PASS = "Narayan1989#";
+        String USER = "#####";
+        String PASS = "#####";
         String URL = "jdbc:mysql://localhost:3306/ambuj";
         Class.forName(driverClass);
         conn = DriverManager.getConnection(URL, USER, PASS);
